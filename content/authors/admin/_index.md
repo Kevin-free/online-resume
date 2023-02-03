@@ -1,84 +1,57 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+title: Dezhi Yu
+role: Staff Engineer
+avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+  - name: Binance.com
+    url: "https://www.binance.com/"
+superuser: true
+authors:
+  - admin
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
+  - Cloud Native
   - Artificial Intelligence
+  - Mobile Development
   - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: "#contact"
+  - link: https://www.linkedin.com/in/halffrost/
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon: linkedin-in
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/halfrost
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+    link: https://twitter.com/halffrost
+  - icon: weixin
+    icon_pack: fab
+    link: https://img.halfrost.com/wechat-qr-code.png
+  - link: https://halfrost.com
+    icon_pack: fab
+    icon: phoenix-squadron
+education:
+  courses:
+    - course: MS in Software Engineering, GPA 3.95/4.0
+      institution: Carnegie Mellon University, CA, United States of America
+      year: 
+      schoolbadge: '/CMU.svg'
+    - course: B.Eng in Computer Science, GPA 3.8/4.0
+      institution: Huzhou University, Zhejiang, China
+      year: 
+      schoolbadge: '/HUZU.svg'
+user_groups:
+  - Researchers
+  - Visitors
+highlight_name: false
+email: "i@halfrost.com"
 ---
+Dezhi Yu is a professional developer who focuses on Cloud Native now. He has strong knowledge of Go, Objective-C and network programming. With these skills, he created quite a few widely used applications and frameworks in the company. He also joins [](https://www.acm.org/)some organizations, becoming professional Membership of [ACM](https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf) / [IEEE](https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf) / [IEEE-CS](https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf) / CCF. He writes his personal thoughts on programming and tech in his personal [blog](https://halfrost.com) that accumulates 7.55 million PV  and 4.26 million UV. He is active on Github, which Github world stars rank [149](https://gitstar-ranking.com/halfrost) as well as world followers rank [95](https://wangchujiang.com/github-rank/). He loves algorithms and advanced mathematics, winning medals in  ACM-ICPC  and Advanced Mathematics Competition.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Dezhi Yu also is a globetrotter, traveled around the world before the age of 28, and his footprints will soon cover seven continents (coming soon). He is extreme sports enthusiasts, like skydiving, skiing, diving, hot air ballooning, helicopters. He is always willing to try new things, and keeping to learn from them.
+
+Now, he works for Binance.com as a Staff Engineer.
