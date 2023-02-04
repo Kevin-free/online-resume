@@ -30,7 +30,7 @@ social:
     link: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
   - link: https://ifree.love/
     icon_pack: fab
-    icon: phoenix-squadron
+    icon: "/HUZU.svg"
 education:
   courses:
     - course: MS in Software Engineering, GPA 3.95/4.0
