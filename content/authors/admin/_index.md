@@ -3,8 +3,8 @@ title: Wentao Xiong
 role: Software Engineer
 avatar_filename: avatar.jpg
 organizations:
-  - name: Binance.com
-    url: "https://www.binance.com/"
+  - name: Fist Bump
+    url: "https://fistbumpgame.com/"
 superuser: true
 authors:
   - admin
@@ -30,17 +30,16 @@ social:
     link: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
   - link: https://ifree.love/
     icon_pack: fab
-    icon: "/HUZU.svg"
+    icon: phoenix-squadron
+  - link: https://ifree.love/
+    icon_pack: custom
+    icon: "/JJU.svg"
 education:
   courses:
-    - course: MS in Software Engineering, GPA 3.95/4.0
-      institution: Carnegie Mellon University, CA, United States of America
+    - course: B.Eng in Computer Science, GPA 3.9/4.0
+      institution: JiuJiang University, JiangXi, China
       year:
-      schoolbadge: "/CMU.svg"
-    - course: B.Eng in Computer Science, GPA 3.8/4.0
-      institution: Huzhou University, Zhejiang, China
-      year:
-      schoolbadge: "/HUZU.svg"
+      schoolbadge: "/JJU.svg"
 user_groups:
   - Researchers
   - Visitors
