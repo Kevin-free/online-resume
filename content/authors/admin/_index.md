@@ -24,14 +24,11 @@ social:
     icon: linkedin-in
   - icon: github
     icon_pack: fab
-    link: https://github.com/halfrost
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/halffrost
+    link: https://github.com/Kevin-free
   - icon: weixin
     icon_pack: fab
-    link: https://img.halfrost.com/wechat-qr-code.png
-  - link: https://halfrost.com
+    link: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
+  - link: https://ifree.love/
     icon_pack: fab
     icon: phoenix-squadron
 education:
