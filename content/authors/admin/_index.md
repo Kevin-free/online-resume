@@ -3,8 +3,8 @@ title: Wentao Xiong
 role: Software Engineer
 avatar_filename: avatar.jpg
 organizations:
-  - name: Fist Bump
-    url: "https://fistbumpgame.com/"
+  - name: Indie Game Developer
+    url: ""
 superuser: true
 authors:
   - admin
@@ -48,4 +48,4 @@ Wentao Xiong is a professional developer who focuses on Game Development now. He
 
 Wentao Xiong is also a sports enthusiasts, good at table tennis, has served as the vice president of the school table tennis association, and led the team to participate in the national college competition. He still insists on exercising at least 4 days a week, and gets a better body and a better life from it.
 
-Now, he works for Fist Bump as a Software Engineer.
+Now, he is a software engineer with nearly 4 years of experience.
