@@ -29,11 +29,6 @@
   weight = 50
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 60
-
-[[main]]
   name = "Talks"
   url = "#talks"
   weight = 70
@@ -53,24 +48,9 @@
   url = "https://www.coursera.org/user/94d1260a778d0a3918ef95b4c1063486"
   weight = 10
 
-#[[main_right]]
-#  name = "<i class='ai ai-acm' style='font-size:1.5rem;line-height:1.25'></i>"
-#  url = "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"
-#  weight = 20
-
-#[[main_right]]
-#  name = "<i class='ai ai-ieee' style='font-size:1.5rem;line-height:1.25'></i>"
-#  url = "https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"
-#  weight = 30
-
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main_right]]
   name = "<i class='ai ai-cv' style='font-size:1.5rem;line-height:1.25'></i>"
   url = "cv.pdf"
   weight = 40
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70

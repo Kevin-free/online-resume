@@ -47,6 +47,6 @@ email: "kevin1258@foxmail.com"
 
 Wentao Xiong is a professional developer who focuses on Game Development now. He has strong knowledge of Go, database and network programming. With these skills, he has participated in the development of many game applications and infrastructure in the company. He records his learning about technology and life on his personal [blog](https://ifree.love). He likes to open source his personal projects on [GitHub](https://github.com/Kevin-free). He enjoys learning about programming and putting it into practice.
 
-Wentao Xiong is also a sports enthusiasts, good at table tennis, has served as team captain, and led the team to participate in the national college competition. He still insists on exercising at least 4 days a week, and gets a better body and a better life from it.
+Wentao Xiong is also a sports enthusiasts, good at table tennis, has served as the vice president of the school table tennis association, and led the team to participate in the national college competition. He still insists on exercising at least 4 days a week, and gets a better body and a better life from it.
 
 Now, he works for Fist Bump as a Software Engineer.
