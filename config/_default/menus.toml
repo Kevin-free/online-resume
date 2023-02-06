@@ -18,35 +18,35 @@
   url = "#accomplishments"
   weight = 30
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 40
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 40
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 50
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 50
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 70
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 70
 
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 90
+#[[main]]
+#  name = "Skills"
+#  url = "#skills"
+#  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 100
 
-[[main_right]]
-  name = "<i class='ai ai-coursera' style='font-size:1.5rem;line-height:1.25'></i>"
-  url = "https://www.coursera.org/user/94d1260a778d0a3918ef95b4c1063486"
-  weight = 10
+#[[main_right]]
+#  name = "<i class='ai ai-coursera' style='font-size:1.5rem;line-height:1.25'></i>"
+#  url = "https://www.coursera.org/user/94d1260a778d0a3918ef95b4c1063486"
+#  weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

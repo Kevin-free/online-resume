@@ -8,8 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include game development and artificial intelligence.
 interests:
   - Artificial Intelligence
   - Game Development

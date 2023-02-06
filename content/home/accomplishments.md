@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Ministry of Education"
   organization_url = "http://ncre.neea.edu.cn/"
-  title = "National Computer Rank Examination (Level 4 Network Engineer)"
+  title = "National Computer Rank Examination (Level 2 C language programming)"
   url = ""
   certificate_url = "https://img.ifree258.top/me.ifree.love/certificate/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7C%E8%80%83%E8%AF%95%E8%AF%81%E4%B9%A6.png"
   date_start = "2016-09-01"
