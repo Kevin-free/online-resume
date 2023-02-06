@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Software Engineer"
-  company = "Shenzhen Tongquan Technology Co., Ltd."
+  company = "Shenzhen Fist Bump Technology Co., Ltd."
   company_url = "https://fistbumpgame.com/"
   location = "Shenzhen, Guangdong, China"
   date_start = "2022-03-01"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer"
-  company = "Jiangxi Zhongzhi Data Group Co., Ltd.	"
+  company = "Jiangxi Zonst Group Co., Ltd.	"
   company_url = "https://www.zonst.com/"
   location = "Nanchang, Jiangxi, China"
   date_start = "2020-05-01"
