@@ -3,7 +3,7 @@ title: Principles and Practice of Recommendation Algorithms
 date: 2023-02-07T10:24:36.983Z
 summary: Since the recommendation algorithm I use is based on collaborative filtering, let's talk about collaborative filtering algorithms.
 draft: false
-featured: false
+featured: true
 authors:
   - kevin
 tags:
