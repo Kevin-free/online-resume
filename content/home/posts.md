@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Posts"
-subtitle = "<a class='btn btn-outline-primary' href='https://halfrost.com/'><i class='far fa-newspaper fa-fw'></i>&nbsp; See All Posts &amp; Media </a>"
+subtitle = "<a class='btn btn-outline-primary' href='https://ifree.love/'><i class='far fa-newspaper fa-fw'></i>&nbsp; See All Posts</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
