@@ -1,6 +1,6 @@
 ---
 title: Looking for the Best Musicmate
-summary: Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music. The front end is developed using native WeChat applets, and the background is developed using Java based on Spring. It mainly includes modules such as music service, music interaction and exclusive recommendation. The service is offline, and the code is open source on [GitHub](https://github.com/Kevin-free/yinyuan_server).
+summary: Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music.
 
 tags:
   - Mobile
@@ -27,6 +27,8 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music. The front end is developed using native WeChat applets, and the background is developed using Java based on Spring. It mainly includes modules such as music service, music interaction and exclusive recommendation. The service is offline, and the code is open source on [GitHub](https://github.com/Kevin-free/yinyuan_server).
 
 The system architecture is as shown in the figure below.
 
