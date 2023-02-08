@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
@@ -26,16 +26,16 @@ subtitle = "<a class='btn btn-outline-primary' href='https://github.com/Kevin-fr
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
-  
-  [[content.filter_button]]
-    name = "Algorithm"
-    tag = "Algorithm"
+    name = "Web"
+    tag = "Web"
   
   [[content.filter_button]]
     name = "Mobile"
     tag = "Mobile"
+
+  [[content.filter_button]]
+    name = "Algorithm"
+    tag = "Algorithm"
 
   [[content.filter_button]]
     name = "Other"
