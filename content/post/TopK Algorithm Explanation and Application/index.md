@@ -10,7 +10,7 @@ authors:
   - kevin
 tags:
   - Algorithm
-  - Recommendation
+  - Sort
 categories:
   - Algorithm
 image:
