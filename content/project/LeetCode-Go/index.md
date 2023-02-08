@@ -16,14 +16,8 @@ image:
 links:
   - icon_pack: fab
     icon: github
-    name: Follow
+    name: Star
     url: "https://github.com/Kevin-free/"
-  - icon_pack: fab
-    icon: weixin
-    name: Follow
-    url: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
-
-url_code: "https://github.com/Kevin-free/LeetCode-Go"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
