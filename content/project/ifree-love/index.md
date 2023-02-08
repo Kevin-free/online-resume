@@ -27,6 +27,10 @@ links:
 slides: ""
 ---
 
+Personal website, using Ghost to build on Ubuntu system, recording technical blogs and reading notes, etc.
+
+Partial list of articles:
+
 [Data Structure](https://ifree.love/tag/data-structure/)
 
 - [Go 的 map 及并发安全问题](https://ifree.love/tag/data-structure/)
