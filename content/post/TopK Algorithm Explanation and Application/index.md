@@ -1,6 +1,6 @@
 ---
 title: TopK Algorithm Explanation and Application
-date: 2023-02-07T10:24:36.983Z
+date: 2023-02-04T10:24:36.983Z
 summary: What is the TopK algorithm? To put it simply, it is to find the first K largest (of course, it can also be the first K smallest) number in a bunch of data.
 draft: false
 featured: true

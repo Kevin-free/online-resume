@@ -1,6 +1,6 @@
 ---
 title: Explanation and Application of Binary Search Algorithm
-date: 2023-02-07T10:24:36.983Z
+date: 2023-02-05T10:24:36.983Z
 summary: Binary search has the advantages of fast search speed and good average performance, but only when the list is **ordered**, binary search works. It is often tested in interviews. This article will explain the binary search algorithm.
 draft: false
 featured: true

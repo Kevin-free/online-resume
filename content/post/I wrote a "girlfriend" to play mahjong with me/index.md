@@ -1,6 +1,6 @@
 ---
 title: I wrote a "girlfriend" to play mahjong with me
-date: 2023-02-07T10:24:36.983Z
+date: 2023-02-07T10:24:30.983Z
 summary: Mahjong robot AI implemented using golang combined with search tree and recursive algorithm.
 draft: false
 featured: true
