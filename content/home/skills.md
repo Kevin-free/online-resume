@@ -40,6 +40,12 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
+  icon = "Redis"
+  icon_pack = "custom"
+  name = "Redis"
+  description = "60%" 
+
+[[feature]]
   icon = "Docker"
   icon_pack = "custom"
   name = "Docker"
@@ -50,12 +56,6 @@ subtitle = ""
   icon_pack = "custom"
   name = "Nginx"
   description = "50%"
-  
-[[feature]]
-  icon = "Redis"
-  icon_pack = "custom"
-  name = "Redis"
-  description = "60%" 
 
 [[feature]]
   icon = "git"
@@ -87,6 +87,18 @@ subtitle = ""
   name = "JavaScript"
   description = "60%" 
   
+[[feature]]
+  icon = "markdown"
+  icon_pack = "custom"
+  name = "Markdown"
+  description = "90%"
+  
+[[feature]]
+  icon = "draw"
+  icon_pack = "custom"
+  name = "Draw"
+  description = "80%"
+
 [[feature]]
   icon = "PS"
   icon_pack = "custom"
