@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "My Recent Talks"
+title = "Talks"
 subtitle = "<a class='btn btn-outline-primary' href='https://speakerdeck.com/halfrost/'><i class='fas fa-video'></i>&nbsp; See All Talks</a>"
 
 [content]
