@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://fistbumpgame.com/"
   location = "Shenzhen, Guangdong, China"
   date_start = "2022-03-01"
-  date_end = ""
+  date_end = "2022-10-01"
   description = """
 <img data-src="/media/fsbm.jpg" alt="fsbm" style="padding-bottom: 30px;" class="lazyload">
 
