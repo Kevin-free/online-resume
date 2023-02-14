@@ -1,6 +1,6 @@
 ---
 title: Explain parameter passing in Go
-date: 2023-02-09T10:24:36.983Z
+date: 2023-02-04T10:24:36.983Z
 summary: Passing by value includes passing by reference and passing by value. What is the method of passing by value in Golang? This article explains parameter passing in Go.
 draft: false
 featured: true
