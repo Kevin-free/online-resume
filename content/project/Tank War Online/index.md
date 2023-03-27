@@ -18,7 +18,7 @@ links:
   - icon_pack: fab
     icon: github
     name: Star
-    url: "https://github.com/Kevin-free/yinyuan_server"
+    url: "https://github.com/Kevin-free/TankWar1.9.9_Net"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
