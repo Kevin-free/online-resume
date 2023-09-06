@@ -1,9 +1,10 @@
 ---
 title: me.ifree.love
-summary: Personal online resume, built on Ubuntu system using HTML+CSS+JS.
+summary: As you can see, personal online resume, deploy on Netlify with Hugo.
 tags:
-  - Web
   - Resume
+  - Front-End
+  - Other
 date: "2023-02-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -27,4 +28,4 @@ links:
 slides: ""
 ---
 
-Personal online resume, built on Ubuntu system using HTML+CSS+JS.
+As you can see, personal online resume, deploy on Netlify with Hugo.

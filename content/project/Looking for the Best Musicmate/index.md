@@ -1,10 +1,11 @@
 ---
 title: Looking for the Best Musicmate
-summary: Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music.
+summary: Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music. Awarded third place in the WeChat Mini Program Application Development Competition.
 
 tags:
-  - Mobile
-  - Recommendation
+  - Game
+  - AI
+  - Full-Stack
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -28,7 +29,7 @@ links:
 slides: ""
 ---
 
-A personally designed and developed music social WeChat Mini Program, awarded third place in the WeChat Mini Program Application Development Competition. Utilizes Java, Python, MySQL, Redis, mahout, WeChat Mini Program, and other technologies, offering music services, interactive features, and personalized recommendations. [GitHub](https://github.com/Kevin-free/yinyuan_server).
+A personally designed and developed music social WeChat Mini Program, awarded third place in the WeChat Mini Program Application Development Competition. Utilizes Java, Python, MySQL, Redis, mahout, and WeChat Mini Program technologies. Main modules include music services, music interaction, exclusive recommendations, and more.
 
 The system architecture is as shown in the figure below.
 

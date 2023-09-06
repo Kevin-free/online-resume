@@ -1,9 +1,10 @@
 ---
 title: LeetCode-Go
-summary: "The solutions to LeetCode in Go, 100% test coverage, runtime beats 100%. As of now, I have solved hundreds of problems and written solutions, and it is still in progress."
+summary: The solutions to LeetCode in Go, 100% test coverage, runtime beats 100%. As of now, I have solved hundreds of problems and written solutions, and it is still in progress.
 
 tags:
   - Algorithm
+  - Other
 date: "2020-10-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -26,16 +26,12 @@ subtitle = "<a class='btn btn-outline-primary' href='https://github.com/Kevin-fr
     tag = "*"
   
   [[content.filter_button]]
-    name = "Web"
-    tag = "Web"
+    name = "Game"
+    tag = "Game"
   
   [[content.filter_button]]
-    name = "Mobile"
-    tag = "Mobile"
-
-  [[content.filter_button]]
-    name = "Algorithm"
-    tag = "Algorithm"
+    name = "AI"
+    tag = "AI"
 
   [[content.filter_button]]
     name = "Other"

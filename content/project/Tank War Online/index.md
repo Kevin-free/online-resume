@@ -3,8 +3,8 @@ title: Tank War Online
 summary: This game is a hands-on project after learning network programming, and supports multiplayer online battles.
 
 tags:
-  - Other
   - Game
+  - Full-Stack
 date: "2017-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

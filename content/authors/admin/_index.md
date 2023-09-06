@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include game development and artificial intelligence.
+bio: My research interests include game and artificial intelligence.
 interests:
   - Artificial Intelligence
   - Game Development
