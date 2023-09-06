@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Founder and Full-Stack Development Engineer"
+  company = "TruthAI Organization"
+  company_url = "https://truthai.fun/"
+  location = "Shenzhen, Guangdong, China"
+  date_start = "2023-03-01"
+  date_end = ""
+  description = """
+<img data-src="/media/fitness.truthai.png" alt="fitness.truthai" style="padding-bottom: 30px;" class="lazyload">
+
+- Actively pursued entrepreneurship during a career gap, responsible for project planning, technical development, team collaboration, and marketing in the fields of AI, social, gaming, and fitness.
+- Established the [TruthAI Fitness Club](https://github.com/TruthAIOrg/ai-fitness-club), leveraging GPT and AIGC technologies for intelligent community AI Bot services. Successfully led and advanced the project to its fifth phase, with an average monthly paid user base of 15 and a sustained monthly engagement rate of 68%.
+- Engaged in deep learning and contributed to [RealChar](https://realchar.ai/) (138.1K Monthly Visits) and [ai-town](https://www.convex.dev/ai-town) (45.8K Monthly Visits), gaining expertise in project development and deployment.
+
+"""
+
+[[experience]]
   title = "Software Engineer"
   company = "Shenzhen Fist Bump Technology Co., Ltd."
   company_url = "https://fistbumpgame.com/"
@@ -43,7 +59,7 @@ date_format = "Jan 2006"
   description = """
 <img data-src="/media/hys.jpg" alt="hys" style="padding-bottom: 30px;" class="lazyload">
 
--	As the first product of the company to enter the blockchain game, rowing game has transferred more than 50 selected personnel to set up a new department. I am mainly responsible for the development of background services, including the development of auction services and blind box services, and the development of infrastructure and optimization, and DevOps for the entire project.
+-	As the company's inaugural foray into Blockchain Gaming, I'm one of 50+ elite team members, focusing on backend services like auction and blind box, as well as project-wide infrastructure development, optimization, and DevOps.
 -	Use Golang and Kratos to develop microservices from 0 to 1, use Redis and MySQL to store data, GitLab as CI/CD, Docker and K8s as deployment environment.
 -	Combined with zaplog to optimize the log library and improve the overall performance of the service. Standardize DevOps processes and enhance system stability through automation.
 

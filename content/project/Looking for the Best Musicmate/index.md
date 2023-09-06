@@ -28,7 +28,7 @@ links:
 slides: ""
 ---
 
-Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music. The front end is developed using native WeChat applets, and the background is developed using Java based on Spring. It mainly includes modules such as music service, music interaction and exclusive recommendation. The service is offline, and the code is open source on [GitHub](https://github.com/Kevin-free/yinyuan_server).
+A personally designed and developed music social WeChat Mini Program, awarded third place in the WeChat Mini Program Application Development Competition. Utilizes Java, Python, MySQL, Redis, mahout, WeChat Mini Program, and other technologies, offering music services, interactive features, and personalized recommendations. [GitHub](https://github.com/Kevin-free/yinyuan_server).
 
 The system architecture is as shown in the figure below.
 
