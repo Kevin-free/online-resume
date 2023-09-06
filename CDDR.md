@@ -162,3 +162,15 @@ OPEN SOURCE PROJECTS
 • Finding the Best Music Connections: A personally designed and developed music social WeChat Mini Program, awarded third place in the WeChat Mini Program Application Development Competition. Utilizes Java, Python, MySQL, Redis, mahout, and WeChat Mini Program technologies. Main modules include music services, music interaction, exclusive recommendations, and more. [GitHub Link]
 
 ---
+
+You
+
+---
+
+熊文涛是一名专业开发者，目前专注于 AI 和游戏领域。 他对 Go、数据库和网络编程有丰富的了解。 凭借这些技能，他参与了公司许多游戏应用程序和基础设施的开发。 他在个人博客上记录了自己对科技和生活的学习。 他喜欢在 GitHub 上开源他的个人项目。 他喜欢学习编程并将其付诸实践。
+
+熊文涛也是一名体育爱好者，擅长乒乓球，曾担任学校乒乓球协会副主席，并带领球队参加全国大学生比赛。 他仍然坚持每周至少锻炼 4 天，他不仅从中锻炼了健康的身体，更打造了坚强的内心。
+
+现在，他是一名拥有拥有多年经验的独立开发者。
+
+---
