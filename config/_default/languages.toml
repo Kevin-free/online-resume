@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh"
   contentDir = "content/zh"
-#  title = "Chinese website title..."
+  title = "熊文涛"
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
