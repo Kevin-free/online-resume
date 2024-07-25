@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "kevintao@ifree.love"
-phone = "(+86) 15727546130"
+# phone = "(+86) 15727546130"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -112,7 +112,7 @@ address = {street = "", city = "Shenzhen", region = "", postcode = "", country =
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/halffrost"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/kevintao1024"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

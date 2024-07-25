@@ -1,0 +1,108 @@
++++
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 65  # Order that this section will appear.
+
+title = "Projects"
+subtitle = "<a class='btn btn-outline-primary' href='https://github.com/Kevin-free'><i class='fab fa-github'></i>&nbsp; See All Projects</a>"
+
+[content]
+  # Page type to display. E.g. project.
+  page_type = "project"
+  
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+  
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+  
+  [[content.filter_button]]
+    name = "Game"
+    tag = "Game"
+  
+  [[content.filter_button]]
+    name = "AI"
+    tag = "AI"
+  
+  [[content.filter_button]]
+    name = "OpenSource"
+    tag = "OpenSource"
+  
+  [[content.filter_button]]
+    name = "Personal"
+    tag = "Personal"
+  
+  [[content.filter_button]]
+    name = "Team"
+    tag = "Team"
+  
+  [[content.filter_button]]
+    name = "Company"
+    tag = "Company"
+
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Other"
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view = 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = true
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "alibaba.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+<!-- <h3 style="text-align:right;margin-bottom: 36px;"><a href='#' class='back-to-top'><i class='fas fa-chevron-up fa-lg' style='color:rgba(0, 0, 0, 0.54);font-size: 1.8rem;'></i></a></h3> -->
+
+<div style="text-align:right;margin-bottom: 60px;">
+  <span class="float-right">
+    <a href="#" class="back-to-top">
+      <span class="button_icon">
+        <i class="fas fa-chevron-up fa-2x site-footer" style='font-size: 1.8rem;'></i>
+      </span>
+    </a>
+  </span>
+</div>
