@@ -14,32 +14,32 @@
   weight = 20
 
 [[main]]
-  name = "Accomplishments"
+  name = "成就"
   url = "#accomplishments"
   weight = 30
 
 [[main]]
-  name = "Posts"
+  name = "文章"
   url = "#posts"
   weight = 40
 
 [[main]]
-  name = "Projects"
+  name = "项目"
   url = "#projects"
   weight = 50
 
 [[main]]
-  name = "Talks"
+  name = "演讲"
   url = "#talks"
   weight = 70
 
 [[main]]
-  name = "Skills"
+  name = "技能"
   url = "#skills"
   weight = 90
 
 [[main]]
-  name = "Contact"
+  name = "联系"
   url = "#contact"
   weight = 100
 

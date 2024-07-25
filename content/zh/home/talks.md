@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Talks"
-subtitle = "<a class='btn btn-outline-primary' href='https://www.slideshare.net/kevin10241'><i class='fas fa-video'></i>&nbsp; See All Talks</a>"
+title = "演讲"
+subtitle = "<a class='btn btn-outline-primary' href='https://www.slideshare.net/kevin10241'><i class='fas fa-video'></i>&nbsp; 查看所有演讲</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

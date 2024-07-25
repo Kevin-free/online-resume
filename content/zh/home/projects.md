@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "<a class='btn btn-outline-primary' href='https://github.com/Kevin-free'><i class='fab fa-github'></i>&nbsp; See All Projects</a>"
+title = "项目"
+subtitle = "<a class='btn btn-outline-primary' href='https://github.com/Kevin-free'><i class='fab fa-github'></i>&nbsp; 查看所有项目</a>"
 
 [content]
   # Page type to display. E.g. project.
