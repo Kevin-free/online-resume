@@ -52,5 +52,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main_right]]
   name = "<i class='ai ai-cv' style='font-size:1.5rem;line-height:1.25'></i>"
-  url = "cv.pdf"
+  #url = "https://buy.stripe.com/test_aEU3gh0JAglo3te5ko"
+  url = "https://buy.stripe.com/6oE9BFdyIcUP74IbIL"
   weight = 40
