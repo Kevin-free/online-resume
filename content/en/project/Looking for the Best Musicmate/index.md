@@ -4,7 +4,6 @@ summary: Personal Project | Personally designed and developed a music social WeC
 
 tags:
   - Game
-  - AI
   - Full-Stack
   - Personal
   - OpenSource

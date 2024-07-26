@@ -1,7 +1,7 @@
 ---
-title: Design and development of business analysis system
+title: Design and Development of Business Analysis System
 date: 2023-02-07T10:24:36.983Z
-summary: Use golang and Kratos to build a business analysis system, use Redis and MySQL to store data, use ClickHouse to analyze data, and provide an API interface for web-side query analysis indicators.
+summary: Use Golang and Kratos to build a business analysis system, use Redis and MySQL to store data, use ClickHouse to analyze data, and provide an API interface for web-side query analysis indicators.
 draft: false
 featured: false
 authors:
@@ -20,6 +20,6 @@ links:
     url: "https://ifree.love/design-and-development-of-business-analysis-system/"
 ---
 
-使用 golang 和 Kratos 搭建经营分析系统，使用 Redis 和 MySQL 存储数据，使用 ClickHouse 分析数据，提供 API 接口给 Web 端查询分析指标。
+Build a business analysis system using Golang and Kratos, use Redis and MySQL to store data, analyze data with ClickHouse, and provide an API interface for web-side query analysis indicators.
 
-点击[阅读更多](https://ifree.love/design-and-development-of-business-analysis-system/)看全文。
+Click [Read More](https://ifree.love/design-and-development-of-business-analysis-system/) for the full article.

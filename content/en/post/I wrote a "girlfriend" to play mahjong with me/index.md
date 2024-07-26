@@ -21,6 +21,6 @@ links:
     url: "https://ifree.love/i-wrote-a-girlfriend-to-play-mahjong-with-me/"
 ---
 
-使用 golang 结合搜索树和递归算法实现的麻将机器人 AI。
+A Mahjong robot AI implemented using Golang with search trees and recursive algorithms.
 
-点击[阅读更多](https://ifree.love/i-wrote-a-girlfriend-to-play-mahjong-with-me/)看全文。
+Click [Read More](https://ifree.love/i-wrote-a-girlfriend-to-play-mahjong-with-me/) for the full article.

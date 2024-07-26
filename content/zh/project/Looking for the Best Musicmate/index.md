@@ -1,11 +1,12 @@
 ---
 title: Looking for the Best Musicmate
-summary: Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music. Awarded third place in the WeChat Mini Program Application Development Competition.
+summary: Personal Project | Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music.
 
 tags:
   - Game
-  - AI
   - Full-Stack
+  - Personal
+  - OpenSource
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

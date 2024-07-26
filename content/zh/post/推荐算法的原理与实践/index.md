@@ -1,22 +1,22 @@
 ---
-title: Principles and Practice of Recommendation Algorithms
+title: 推荐算法的原理与实践
 date: 2023-02-05T10:24:36.983Z
-summary: Since the recommendation algorithm I use is based on collaborative filtering, let's talk about collaborative filtering algorithms.
+summary: 由于我使用的推荐算法是基于协同过滤的，所以我们来谈谈协同过滤算法。
 draft: false
 featured: true
 authors:
   - kevin
 tags:
-  - Algorithm
-  - Recommendation
+  - 算法
+  - 推荐
 categories:
-  - Algorithm
+  - 算法
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 links:
-  - name: Read More
+  - name: 阅读更多
     url: "https://ifree.love/principles-and-practice-of-recommendation-algorithms/"
 ---
 

@@ -1,13 +1,12 @@
 ---
-title: me.ifree.love
-summary: Personal Project | As you can see now, personal online resume, deploy on Netlify with Hugo.
+title: AI Town
+summary: Team Project | A virtual town where AI characters live, chat and socialize.
 tags:
-  - Resume
+  - AI
   - Full-Stack
-  - Personal
+  - Team
   - OpenSource
-  - Other
-date: "2023-02-02T00:00:00Z"
+date: "2023-08-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,10 +16,14 @@ image:
   focal_point: Smart
 
 links:
+  - name: Website
+    url: https://www.convex.dev/ai-town
+  - name: Paper
+    url: "https://arxiv.org/pdf/2304.03442"
   - icon_pack: fab
     icon: github
     name: Star
-    url: "https://github.com/Kevin-free/online-resume"
+    url: "https://github.com/a16z-infra/ai-town"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,4 +33,6 @@ links:
 slides: ""
 ---
 
-As you can see, personal online resume, deploy on Netlify with Hugo.
+[Live Demo](https://www.convex.dev/ai-town)
+
+A virtual town where AI characters live, chat and socialize.

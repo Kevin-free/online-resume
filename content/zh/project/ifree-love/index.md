@@ -1,9 +1,11 @@
 ---
 title: ifree.love
-summary: Personal Blog, using Ghost to build on Ubuntu, recording technical blogs and reading notes, etc.
+summary: Personal Project | Personal blog, build with Ghost, recording technical blogs and reading notes, etc.
 tags:
   - Blog
   - Full-Stack
+  - Personal
+  - OpenSource
   - Other
 date: "2022-10-24T00:00:00Z"
 
@@ -28,7 +30,7 @@ links:
 slides: ""
 ---
 
-Personal [Blog](https://ifree.love/), using Ghost to build on Ubuntu, recording technical blogs and reading notes, etc.
+Personal [blog](https://ifree.love/), build with Ghost, recording technical blogs and reading notes, etc.
 
 Partial list of articles:
 

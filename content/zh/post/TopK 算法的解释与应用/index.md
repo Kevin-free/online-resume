@@ -1,22 +1,22 @@
 ---
-title: TopK Algorithm Explanation and Application
+title: TopK 算法的解释与应用
 date: 2023-02-04T10:24:36.983Z
-summary: What is the TopK algorithm? To put it simply, it is to find the first K largest (of course, it can also be the first K smallest) number in a bunch of data.
+summary: 什么是 TopK 算法？简单来说，就是在一堆数据中找到前 K 大（当然也可以是前 K 小）的数。
 draft: false
 featured: true
 authors:
   - kevin
 tags:
-  - Algorithm
-  - Sort
+  - 算法
+  - 排序
 categories:
-  - Algorithm
+  - 算法
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 links:
-  - name: Read More
+  - name: 阅读更多
     url: "https://ifree.love/topk-algorithm-explanation-and-application/"
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: Tank War Online
-summary: This game is a hands-on project after learning network programming, and supports multiplayer online battles.
+summary: Personal Project | The game is a hands-on project after learning network programming, and supports multiplayer online battles.
 
 tags:
   - Game
   - Full-Stack
+  - Personal
+  - OpenSource
 date: "2017-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

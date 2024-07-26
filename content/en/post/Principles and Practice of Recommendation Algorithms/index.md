@@ -20,10 +20,10 @@ links:
     url: "https://ifree.love/principles-and-practice-of-recommendation-algorithms/"
 ---
 
-因为我使用的推荐算法是基于协同过滤，所以我们来聊聊协同过滤算法吧。
+Since the recommendation algorithm I use is based on collaborative filtering, let's discuss collaborative filtering algorithms.
 
-协同过滤（Collaborative Filtering，简称 CF）是一种最经典的推荐算法，这个算法的出现对于推荐系统具有划时代的意义。1992 年第一次提出协同过滤算法。
+Collaborative Filtering (CF) is one of the most classic recommendation algorithms and has been revolutionary for recommendation systems. The collaborative filtering algorithm was first proposed in 1992.
 
-协同过滤算法主要通过分析用户的历史数据，用以构建用户模型并进行推荐。协同过滤算法主要分为以下两类：一类是基于用户的协同过滤算法（User-Based Collaborative Filtering，简称 UserCF），另一类是基于物品的协同过滤算法（Item-Based Collaborative Filtering，简称 ItemCF）。
+This algorithm primarily analyzes users' historical data to build user models and make recommendations. Collaborative filtering algorithms are mainly divided into two types: User-Based Collaborative Filtering (UserCF) and Item-Based Collaborative Filtering (ItemCF).
 
-点击[阅读更多](https://ifree.love/principles-and-practice-of-recommendation-algorithms/)看全文。
+Click [Read More](https://ifree.love/principles-and-practice-of-recommendation-algorithms/) for the full article.

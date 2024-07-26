@@ -1,22 +1,22 @@
 ---
-title: Explanation and Application of Binary Search Algorithm
+title: 二分查找算法的解释与应用
 date: 2023-02-05T10:24:36.983Z
-summary: Binary search has the advantages of fast search speed and good average performance, but only when the list is **ordered**, binary search works. It is often tested in interviews. This article will explain the binary search algorithm.
+summary: 二分查找具有查找速度快和平均性能好的优点，但仅在列表是**有序**时才有效。面试中常常考察，这篇文章将解释二分查找算法。
 draft: false
 featured: true
 authors:
   - kevin
 tags:
-  - Algorithm
-  - Search
+  - 算法
+  - 查找
 categories:
-  - Algorithm
+  - 算法
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 links:
-  - name: Read More
+  - name: 阅读更多
     url: "https://ifree.love/explanation-and-application-of-binary-search-algorithm/"
 ---
 

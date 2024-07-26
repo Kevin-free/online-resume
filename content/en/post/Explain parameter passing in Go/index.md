@@ -20,6 +20,6 @@ links:
     url: "https://ifree.love/explain-parameter-passing-in-go/"
 ---
 
-传值有引用传递和值传递，Golang 中的传值是什么方式呢？这篇文章来讲解 Go 的参数传递。
+Value passing includes both pass-by-reference and pass-by-value. What method is used for value passing in Golang? This article explains parameter passing in Go.
 
-点击[阅读更多](https://ifree.love/explain-parameter-passing-in-go/)看全文。
+Click [Read More](https://ifree.love/explain-parameter-passing-in-go/) for the full article.

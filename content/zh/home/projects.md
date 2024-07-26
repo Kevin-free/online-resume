@@ -22,19 +22,35 @@ subtitle = "<a class='btn btn-outline-primary' href='https://github.com/Kevin-fr
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "所有"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Game"
+    name = "游戏"
     tag = "Game"
   
   [[content.filter_button]]
-    name = "AI"
+    name = "人工智能"
     tag = "AI"
+  
+  [[content.filter_button]]
+    name = "开源"
+    tag = "OpenSource"
+  
+  [[content.filter_button]]
+    name = "个人"
+    tag = "Personal"
+  
+  [[content.filter_button]]
+    name = "团队"
+    tag = "Team"
+  
+  [[content.filter_button]]
+    name = "公司"
+    tag = "Company"
 
   [[content.filter_button]]
-    name = "Other"
+    name = "其他"
     tag = "Other"
 
 [design]

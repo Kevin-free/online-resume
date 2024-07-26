@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Founder and Full-Stack Engineer"
-  company = "LiberCyber"
+  company = "LiberCyber Ltd."
   company_url = "https://libercyber.com"
   location = "Shenzhen, Guangdong, China"
   date_start = "2023-03-01"

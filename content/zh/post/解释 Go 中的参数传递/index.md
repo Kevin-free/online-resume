@@ -1,14 +1,14 @@
 ---
-title: Explain parameter passing in Go
+title: 解释 Go 中的参数传递
 date: 2023-02-04T10:24:36.983Z
-summary: Passing by value includes passing by reference and passing by value. What is the method of passing by value in Golang? This article explains parameter passing in Go.
+summary: 传值包括引用传递和值传递。那么在 Golang 中传值是什么方式呢？本文将解释 Go 的参数传递。
 draft: false
 featured: true
 authors:
   - kevin
 tags:
   - Golang
-  - Function
+  - 函数
 categories:
   - Golang
 image:
@@ -16,7 +16,7 @@ image:
   focal_point: Smart
   preview_only: false
 links:
-  - name: Read More
+  - name: 阅读更多
     url: "https://ifree.love/explain-parameter-passing-in-go/"
 ---
 

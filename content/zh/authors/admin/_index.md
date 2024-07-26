@@ -16,25 +16,25 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - link: https://www.linkedin.com/in/kevintao1024/
+  - icon: linkedin-in
     icon_pack: fab
-    icon: linkedin-in
+    link: https://www.linkedin.com/in/kevintao1024/
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/kevintao1024
+  - icon: phoenix-framework
+    icon_pack: fab
+    link: https://ifree.love/
   - icon: github
     icon_pack: fab
     link: https://github.com/Kevin-free
   - icon: weixin
     icon_pack: fab
     link: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
-  - link: https://ifree.love/
-    icon_pack: fab
-    icon: phoenix-squadron
-  - link: https://ifree.love/
-    icon_pack: custom
-    icon: "/JJU.svg"
 education:
   courses:
-    - course: B.Eng in Computer Science, GPA 3.9/4.0
-      institution: JiuJiang University, JiangXi, China
+    - course: 计算机科学学士学位, GPA 3.9/4.0
+      institution: 九江学院, 江西, 中国
       year:
       schoolbadge: "/JJU.svg"
 user_groups:
@@ -44,8 +44,10 @@ highlight_name: false
 email: "kevintao@ifree.love"
 ---
 
-Wentao Xiong is a professional developer who focuses on Game now. He has strong knowledge of Go, database and network programming. With these skills, he has participated in the development of many game applications and infrastructure in the company. He records his learning about technology and life on his personal [Blog](https://ifree.love). He likes to open source his personal projects on [GitHub](https://github.com/Kevin-free). He enjoys learning about programming and putting it into practice.
+熊文涛是位专业开发者，目前专注于人工智能和游戏领域。他对后端、前端、数据库和网络编程有深入的了解。凭借这些技能，他参与了众多网站、游戏应用和基础设施的开发工作。他在个人[博客](https://ifree.love)上记录自己在技术和生活方面的学习心得。他喜欢在[GitHub](https://github.com/Kevin-free)上开源自己的个人项目。他热衷于学习编程并将其付诸实践。
 
-Wentao Xiong is also a sports enthusiasts, good at table tennis, has served as the vice president of the school table tennis association, and led the team to participate in the national college competition. He still insists on exercising at least 4 days a week. He not only exercises a healthy body, but also builds a strong heart.
+熊文涛还是一位体育爱好者，擅长乒乓球，曾担任校乒乓球协会副会长，并带领团队参加全国大学生比赛。他至今仍坚持每周至少锻炼 4 天，不仅锻炼出健康的身体，还锻炼出坚强的内心。
 
-Now, he is an independent developer with many years of experience.
+现在，他是一名全栈工程师的独立开发者。
+
+点击[这里](https://buy.stripe.com/6oE9BFdyIcUP74IbIL)获取他的 PDF 简历和电话等个人信息。一次付款，永久更新！
