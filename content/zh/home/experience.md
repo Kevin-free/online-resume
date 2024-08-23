@@ -19,7 +19,7 @@ date_format = "2006-01"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "创始人兼全栈工程师"
-  company = "英国自由赛博有限公司"
+  company = "自由赛博有限公司"
   company_url = "https://libercyber.com"
   location = "中国广东深圳"
   date_start = "2023-03-01"
