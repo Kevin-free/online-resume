@@ -29,11 +29,11 @@ date_format = "Jan 2006"
 <img data-src="/media/libercyber.jpg" alt="libercyber.com" style="padding-bottom: 30px;" class="lazyload">
 
 - Responsible for project planning, product development, team collaboration, and market promotion in fields such as gaming, social networking, fitness, and artificial intelligence.
-- Founded the [TruthAI Fitness Club](https://github.com/TruthAIOrg/ai-fitness-club), leveraging GPT and AIGC technologies to provide AI Bot services for the community. Successfully led and advanced the project to its sixth phase, with an average of 15 paying users per month and a consistent monthly engagement rate of 68%.
-- Gained hands-on experience with cutting-edge AI technologies as a contributor to [RealChar](https://realchar.ai/) (peak monthly visits: 138.1K) and [AI-Town](https://www.convex.dev/ai-town) (peak monthly visits: 215.4K), accumulating valuable experience in project development and deployment.
-- Independently developed the product — [MusicMate AI Music](https://img.ifree258.top/me.ifree.love/projects/yy_mp_code.png): An AI music WeChat mini-program. Features include music playback, music generation, and subscription recharge. Development period: April 1, 2024 - April 13, 2024; launch date: April 29, 2024.
-- Independently developed the product — [UniGPT](https://unigpt.vip): An enhanced all-in-one AI platform. Features include multi-generation, multi-models, multi-modal, and multi-language capabilities. Development period: May 14, 2024 - June 15, 2024; launch date: June 17, 2024.
 - Independently developed the product — [VirtuaLifes](https://virtualifes.com): A next-generation customized super agent platform. Features include memory shaping, appearance generation, voice cloning, and style imitation. Development period: starting June 24, 2024, currently in beta testing.
+- Independently developed the product — [UniGPT](https://unigpt.vip): An enhanced all-in-one AI platform. Features include multi-generation, multi-models, multi-modal, and multi-language capabilities. Development period: May 14, 2024 - June 15, 2024; launch date: June 17, 2024.
+- Independently developed the product — [MusicMate AI Music](https://img.ifree258.top/me.ifree.love/projects/yy_mp_code.png): An AI music WeChat mini-program. Features include music playback, music generation, and subscription recharge. Development period: April 1, 2024 - April 13, 2024; launch date: April 29, 2024.
+- Gained hands-on experience with cutting-edge AI technologies as a contributor to [RealChar](https://realchar.ai/) (peak monthly visits: 138.1K) and [AI-Town](https://www.convex.dev/ai-town) (peak monthly visits: 215.4K), accumulating valuable experience in project development and deployment.
+- Founded [TruthAI Fitness Club](https://github.com/TruthAIOrg/ai-fitness-club) to provide services such as [AI Fitness Coach](https://me.ifree.love/project/ai-fitness-coach/) and [AI Fitness Web](https://me.ifree.love/project/ai-fitness-web/) to the community.
 
 """
 

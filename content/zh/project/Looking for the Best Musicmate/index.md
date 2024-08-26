@@ -1,12 +1,12 @@
 ---
-title: Looking for the Best Musicmate
-summary: Personal Project | Personally designed and developed a music social WeChat mini-program, aiming to find the best friends through music.
+title: 寻找最佳音缘
+summary: 个人项目 | 个人设计并开发的音乐社交微信小程序，旨在通过音乐寻找有缘人。
 
 tags:
-  - Game
-  - Full-Stack
-  - Personal
-  - OpenSource
+  - 游戏
+  - 全栈
+  - 个人
+  - 开源
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,12 +30,14 @@ links:
 slides: ""
 ---
 
-A personally designed and developed music social WeChat Mini Program, awarded third place in the WeChat Mini Program Application Development Competition. Utilizes Java, Python, MySQL, Redis, mahout, and WeChat Mini Program technologies. Main modules include music services, music interaction, exclusive recommendations, and more.
+个人设计开发的音乐社交微信小程序，曾获微信小程序应用开发大赛三等奖。
 
-The system architecture is as shown in the figure below.
+采用Java、Python、MySQL、Redis、mahout、微信小程序等技术。主要包括音乐服务、音乐互动、专属推荐等模块。
+
+系统架构如下图所示。
 
 ![](https://img.ifree258.top/yinyuan/docs/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
-The product demonstration is as follows.
+产品演示如下。
 
 ![](https://img.ifree258.top/yinyuan/docs/demo.gif)

@@ -28,11 +28,11 @@ date_format = "2006-01"
 <img data-src="/media/libercyber.jpg" alt="libercyber.com" style="padding-bottom: 30px;" class="lazyload">
 
 - 负责游戏、社交、健身、人工智能等领域的项目规划、产品研发、团队协作、市场推广等工作。
-- 创立 [TruthAI 健身俱乐部](https://github.com/TruthAIOrg/ai-fitness-club)，利用 GPT 和 AIGC 技术为社群提供 AI Bot 服务。成功主导并推进项目至第六期，平均每月付费用户数为 15 人，持续每月参与率达 68%。
-- 深入学习实践前沿 AI 技术，[RealChar](https://realchar.ai/) (最高月访问量 138.1K) 和 [AI-Town](https://www.convex.dev/ai-town) (最高月访问量 215.4K) 贡献者，在项目开发和部署方面积累了丰富的经验。
-- 独立开发产品——[音缘AI音乐](https://img.ifree258.top/me.ifree.love/projects/yy_mp_code.png)：AI 音乐微信小程序。实现音乐播放，音乐生成，充值订阅等功能。开发周期：2024-04-01~2024-04-13，上线时间：2024-04-29。
-- 独立开发产品——[UniGPT](https://unigpt.vip)：增强型一站式AI平台。实现多生成，多模型，多模态，多语言等功能。开发周期：2024-05-14~2024-06-15，上线时间：2024-06-17。
 - 独立开发产品——[VirtuaLifes](https://virtualifes.com)：新一代定制超级智能体平台。实现塑造记忆，生成外貌，克隆声音，模仿风格等功能。开发周期：2024-06-24，内测中。
+- 独立开发产品——[UniGPT](https://unigpt.vip)：增强型一站式AI平台。实现多生成，多模型，多模态，多语言等功能。开发周期：2024-05-14~2024-06-15，上线时间：2024-06-17。
+- 独立开发产品——[音缘AI音乐](https://img.ifree258.top/me.ifree.love/projects/yy_mp_code.png)：AI 音乐微信小程序。实现音乐播放，音乐生成，充值订阅等功能。开发周期：2024-04-01~2024-04-13，上线时间：2024-04-29。
+- 深入学习实践前沿 AI 技术，[RealChar](https://realchar.ai/) (最高月访问量 138.1K) 和 [AI-Town](https://www.convex.dev/ai-town) (最高月访问量 215.4K) 贡献者，在项目开发和部署方面积累了丰富的经验。
+- 创立 [TruthAI 健身俱乐部](https://github.com/TruthAIOrg/ai-fitness-club)，为社区提供 [AI Fitness Coach](https://me.ifree.love/project/ai-fitness-coach/) 和 [AI Fitness Web](https://me.ifree.love/project/ai-fitness-web/) 等服务。
 
 """
 
