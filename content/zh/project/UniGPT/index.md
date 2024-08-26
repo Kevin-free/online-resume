@@ -47,7 +47,13 @@ links:
 slides: ""
 ---
 
-增强型一站式AI平台。实现多生成，多模型，多模态，多语言等功能。开发周期：2024 年 5 月 14 日至 6 月 15 日；上线日期：2024 年 6 月 17 日。
+增强型一站式AI平台。
+
+实现多生成，多模型，多模态，多语言，多支付等功能。
+
+技术栈：TypeScript, Node.js, React, NextJS。
+
+开发周期：2024 年 5 月 14 日至 6 月 15 日；上线日期：2024 年 6 月 17 日。
 
 <p align='center'>
 <a href="https://unigpt.vip"><img src="https://img.ifree258.top/me.ifree.love/projects/20240617-1-01.png"></a>

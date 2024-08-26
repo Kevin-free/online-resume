@@ -51,7 +51,23 @@ links:
 slides: ""
 ---
 
-A next-generation customized super agent platform. Features include memory shaping, appearance generation, voice cloning, and style imitation. Development period: starting June 24, 2024, currently in beta testing.
+A next-generation customized super agent platform. 
+
+Create and talk to agents! Each agent can have a unique memory, appearance, and voice based on text, image, audio, and more.
+
+Technology Stack：
+
+- Web: React JS, Vanilla JS, WebSockets
+- Mobile: Swift, WebSockets
+- Backend: FastAPI, SQLite, Docker
+- Data Ingestion: LlamaIndex, Chroma
+- LLM Orchestration: LangChain, Chroma
+- LLM: ReByte, OpenAI GPT3.5/4, Anthropic Claude 2, Anyscale Llama2
+- Speech to Text: Local WhisperX, Local Whisper, OpenAI Whisper API, Google Speech to Text
+- Text to Speech: ElevenLabs, Edge TTS, Google Text to Speech
+- Voice Clone: ElevenLabs
+
+Development period: starting June 24, 2024, currently in beta testing.
 
 <p align='center'>
 <a href="https://virtualifes.com"><img src="https://img.ifree258.top/me.ifree.love/projects/p1.png"></a>

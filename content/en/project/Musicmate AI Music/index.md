@@ -35,7 +35,13 @@ links:
 slides: ""
 ---
 
-An AI music WeChat mini-program. Features include music playback, music generation, and subscription recharge. Development period: April 1, 2024 - April 13, 2024; launch date: April 29, 2024.
+An AI music WeChat mini-program. 
+
+Features include music playback, music generation, and subscription recharge. 
+
+Technology Stack：Node.js, MiniProgram。
+
+Development period: April 1, 2024 - April 13, 2024; launch date: April 29, 2024.
 
 <p align='center'>
 <a href="https://mp.weixin.qq.com/s/N-iHIMkXgOaIa-h2CT_3Nw"><img src="https://img.ifree258.top/me.ifree.love/projects/240430-1-02.png"></a>

@@ -35,7 +35,13 @@ links:
 slides: ""
 ---
 
-AI 音乐微信小程序。实现音乐播放，音乐生成，充值订阅等功能。开发周期：2024 年 4 月 1 日至 4 月 13 日；上线日期：2024 年 4 月 29 日。
+AI 音乐微信小程序。
+
+实现音乐播放，音乐生成，充值订阅等功能。
+
+技术栈：Node.js, MiniProgram。
+
+开发周期：2024 年 4 月 1 日至 4 月 13 日；上线日期：2024 年 4 月 29 日。
 
 <p align='center'>
 <a href="https://mp.weixin.qq.com/s/N-iHIMkXgOaIa-h2CT_3Nw"><img src="https://img.ifree258.top/me.ifree.love/projects/240430-1-02.png"></a>

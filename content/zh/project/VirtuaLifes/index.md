@@ -51,7 +51,23 @@ links:
 slides: ""
 ---
 
-新一代定制超级智能体平台。实现塑造记忆，生成外貌，克隆声音，模仿风格等功能。开发周期：自 2024 年 6 月 24 日开始，目前处于内测阶段。
+新一代定制超级智能体平台。
+
+创建并和智能体对话！基于文本、图像、音频等信息，每个智能体都拥有独特的记性、形象、声音。
+
+技术栈：
+
+- Web: React JS, Vanilla JS, WebSockets
+- Mobile: Swift, WebSockets
+- Backend: FastAPI, SQLite, Docker
+- Data Ingestion: LlamaIndex, Chroma
+- LLM Orchestration: LangChain, Chroma
+- LLM: ReByte, OpenAI GPT3.5/4, Anthropic Claude 2, Anyscale Llama2
+- Speech to Text: Local WhisperX, Local Whisper, OpenAI Whisper API, Google Speech to Text
+- Text to Speech: ElevenLabs, Edge TTS, Google Text to Speech
+- Voice Clone: ElevenLabs
+
+开发周期：自 2024 年 6 月 24 日开始，目前处于内测阶段。
 
 <p align='center'>
 <a href="https://virtualifes.com"><img src="https://img.ifree258.top/me.ifree.love/projects/p1.png"></a>
