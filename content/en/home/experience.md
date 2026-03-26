@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_start = "2024-08-01"
   date_end = "2025-12-01"
   description = """
+<img data-src="/media/mysta.jpg" alt="mysta" style="padding-bottom: 30px;" class="lazyload">
+
 - Designed and developed AI Agent services, wrapping LLM capabilities (OpenAI, Claude, DeepSeek) into standardized API services.
 - Independently led end-to-end module design and development, ensuring stable releases and iterative delivery.
 - Led a 3-person team to deliver browser-use-based AI automation within one month; established Code Review standards and documentation practices.
@@ -40,9 +42,11 @@ date_format = "Jan 2006"
   date_start = "2022-11-01"
   date_end = "2024-07-01"
   description = """
+<img data-src="/media/aibuild.jpg" alt="aibuild" style="padding-bottom: 30px;" class="lazyload">
+
 - Contracted at Shenzhen Qihang Interactive Entertainment (Sep 2023 – Mar 2024), contributing to server-side backend refactoring.
-- Independently designed and built [UniGPT](https://unigpt.vip) (AI aggregation platform) and [VirtuaLifes](https://virtualifes.com) (AI Agent platform).
-- Deep contributor to [RealChar](https://realchar.ai/) (6.2K ★) and [AI-Town](https://www.convex.dev/ai-town) (9.6K ★); proficient in AI application server architecture and deployment.
+- Independently built multiple profitable products including [AI Build](https://aibuild.dev), [NanoBananaPro](https://nanobananapro.photo), and [useClawdbot](https://beta.useclawdbot.app); experienced across the full cycle of idea, build, launch, grow, monetize and automate.
+- Deep contributor to [RealChar](https://github.com/Shaunwei/RealChar) (6.2K ★) and [AI-Town](https://github.com/a16z-infra/ai-town) (9.6K ★); proficient in AI application server architecture and deployment.
 
 """
 

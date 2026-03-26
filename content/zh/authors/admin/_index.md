@@ -48,6 +48,6 @@ email: "kevintao@ifree.love"
 
 熊文涛还是一位体育爱好者，擅长乒乓球，曾担任校乒乓球协会副会长，并带领团队参加全国大学生比赛。他至今仍坚持每周至少锻炼 4 天，不仅有健康的身体，还有坚强的内心。
 
-现在，他是独立开发者，线上运营 [AI Build](https://aibuild.dev)、[NanoBananaPro](https://nanobananapro.photo)、[useClawdbot](https://beta.useclawdbot.app) 等多个盈利产品，深度参与[RealChar](https://github.com/Shaunwei/RealChar)（6.2K ★）、[AI-Town](https://github.com/a16z-infra/ai-town)（9.6K ★）等知名开源项目。
+现在，他是独立开发者，上线运营 [AI Build](https://aibuild.dev)、[NanoBananaPro](https://nanobananapro.photo)、[useClawdbot](https://beta.useclawdbot.app) 等多个盈利产品，深度参与[RealChar](https://github.com/Shaunwei/RealChar)（6.2K ★）、[AI-Town](https://github.com/a16z-infra/ai-town)（9.6K ★）等知名开源项目。
 
 想和他合作？点击[这里](https://buy.stripe.com/6oE9BFdyIcUP74IbIL)获取他更详细更私密的 PDF 简历。一次付款，永久更新！

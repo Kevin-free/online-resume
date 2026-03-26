@@ -25,6 +25,8 @@ date_format = "2006-01"
   date_start = "2024-08-01"
   date_end = "2025-12-01"
   description = """
+<img data-src="/media/mysta.jpg" alt="mysta" style="padding-bottom: 30px;" class="lazyload">
+
 - 负责 AI Agent 的设计与开发，将 OpenAI、Claude、DeepSeek 等大模型能力封装为标准化 API 服务。
 - 独立完成模块的设计与开发，保障系统稳定上线与迭代交付。
 - 带领 3 人小组在 1 个月内完成基于 browser-use 的 AI 自动化功能上线，规范 Code Review 与文档。
@@ -39,9 +41,11 @@ date_format = "2006-01"
   date_start = "2022-11-01"
   date_end = "2024-07-01"
   description = """
+<img data-src="/media/aibuild.jpg" alt="aibuild" style="padding-bottom: 30px;" class="lazyload">
+
 - 2023.09–2024.03 期间任职深圳启航互娱科技有限公司，参与服务器后端重构工作。
-- 独立设计并开发 [UniGPT](https://unigpt.vip)（AI 聚合平台）、[VirtuaLifes](https://virtualifes.com)（AI Agent 平台）等产品。
-- 深度参与 [RealChar](https://realchar.ai/)（6.2K ★）、[AI-Town](https://www.convex.dev/ai-town)（9.6K ★）等开源项目，熟悉 AI 应用的服务端架构与部署实践。
+- 独立设计并开发 [AI Build](https://aibuild.dev)、[NanoBananaPro](https://nanobananapro.photo)、[useClawdbot](https://beta.useclawdbot.app) 等多个盈利产品，熟悉想法、开发、发布、增长、变现、自动化全流程。
+- 深度参与[RealChar](https://github.com/Shaunwei/RealChar)（6.2K ★）、[AI-Town](https://github.com/a16z-infra/ai-town)（9.6K ★）等知名开源项目，熟悉 AI 应用的服务端架构与部署实践。
 
 """
 
