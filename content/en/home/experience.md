@@ -19,21 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Founder and Full-Stack Engineer"
-  company = "LiberCyber Ltd."
-  company_url = "https://libercyber.com"
+  title = "AI Full Stack Engineer (Backend-focused)"
+  company = "U.S. Tech Company (Remote)"
+  company_url = ""
   location = "Shenzhen, Guangdong, China"
-  date_start = "2023-03-01"
-  date_end = ""
+  date_start = "2024-08-01"
+  date_end = "2025-12-01"
   description = """
-<img data-src="/media/libercyber.jpg" alt="libercyber.com" style="padding-bottom: 30px;" class="lazyload">
+- Designed and developed AI Agent services, wrapping LLM capabilities (OpenAI, Claude, DeepSeek) into standardized API services.
+- Independently led end-to-end module design and development, ensuring stable releases and iterative delivery.
+- Led a 3-person team to deliver browser-use-based AI automation within one month; established Code Review standards and documentation practices.
 
-- Responsible for project planning, product development, team collaboration, and market promotion in fields such as gaming, social networking, fitness, and artificial intelligence.
-- Independently developed the product — [VirtuaLifes](https://virtualifes.com): A next-generation customized super agent platform. Features include memory shaping, appearance generation, voice cloning, and style imitation. Development period: starting June 24, 2024, currently in beta testing.
-- Independently developed the product — [UniGPT](https://unigpt.vip): An enhanced all-in-one AI platform. Features include multi-generation, multi-models, multi-modal, and multi-language capabilities. Development period: May 14, 2024 - June 15, 2024; launch date: June 17, 2024.
-- Independently developed the product — [MusicMate AI Music](https://img.ifree258.top/me.ifree.love/projects/yy_mp_code.png): An AI music WeChat mini-program. Features include music playback, music generation, and subscription recharge. Development period: April 1, 2024 - April 13, 2024; launch date: April 29, 2024.
-- Gained hands-on experience with cutting-edge AI technologies as a contributor to [RealChar](https://realchar.ai/) (peak monthly visits: 138.1K) and [AI-Town](https://www.convex.dev/ai-town) (peak monthly visits: 215.4K), accumulating valuable experience in project development and deployment.
-- Founded [TruthAI Fitness Club](https://github.com/TruthAIOrg/ai-fitness-club) to provide services such as [AI Fitness Coach](https://me.ifree.love/project/ai-fitness-coach/) and [AI Fitness Web](https://me.ifree.love/project/ai-fitness-web/) to the community.
+"""
+
+[[experience]]
+  title = "AI Full Stack Engineer"
+  company = "Independent Developer"
+  company_url = ""
+  location = "Shenzhen, Guangdong, China"
+  date_start = "2022-11-01"
+  date_end = "2024-07-01"
+  description = """
+- Contracted at Shenzhen Qihang Interactive Entertainment (Sep 2023 – Mar 2024), contributing to server-side backend refactoring.
+- Independently designed and built [UniGPT](https://unigpt.vip) (AI aggregation platform) and [VirtuaLifes](https://virtualifes.com) (AI Agent platform).
+- Deep contributor to [RealChar](https://realchar.ai/) (6.2K ★) and [AI-Town](https://www.convex.dev/ai-town) (9.6K ★); proficient in AI application server architecture and deployment.
 
 """
 
@@ -47,9 +56,9 @@ date_format = "Jan 2006"
   description = """
 <img data-src="/media/fsbm.jpg" alt="fsbm" style="padding-bottom: 30px;" class="lazyload">
 
-- Lead the design and development of the business analysis system, aggregate and analyze the log data of the game business and provide an API query interface, so that operators can view analysis indicators on the web and formulate strategies to optimize products.
-- Use Golang and Kratos framework for rapid development, Redis and MySQL for data storage, ClickHouse for data analysis, use GitLab CI/CD + systemd to deploy on Alibaba Cloud machines.
-- Use ELK to build a log analysis platform, and set up an error log panel for developers to expose problems in advance to avoid risks.
+- Designed and built a Business Analytics System aggregating game log data with API query interfaces to support operations strategy.
+- Core modules in Golang + Kratos; MySQL + Redis for storage; ClickHouse for analytics; CI/CD automated deployment.
+- Self-initiated ELK log analysis platform with error alerting dashboards, improving troubleshooting efficiency and preventing production incidents.
 
 """
 
@@ -63,15 +72,15 @@ date_format = "Jan 2006"
   description = """
 <img data-src="/media/hys.jpg" alt="hys" style="padding-bottom: 30px;" class="lazyload">
 
--	As the company's inaugural foray into Blockchain Gaming, I'm one of 50+ elite team members, focusing on backend services like auction and blind box, as well as project-wide infrastructure development, optimization, and DevOps.
--	Use Golang and Kratos to develop microservices from 0 to 1, use Redis and MySQL to store data, GitLab as CI/CD, Docker and K8s as deployment environment.
--	Combined with zaplog to optimize the log library and improve the overall performance of the service. Standardize DevOps processes and enhance system stability through automation.
+- Joined a strategic new project (blockchain game) in a 50+ person division; responsible for auction service, blind-box service backend, and infrastructure.
+- Built microservices from scratch using Golang + Kratos; MySQL + Redis; Docker + K8s containerized deployment.
+- Introduced zaplog for optimized structured logging; standardized DevOps processes via automation to enhance system stability.
 
 """
 
 [[experience]]
   title = "Software Engineer"
-  company = "Jiangxi Zonst Group Co., Ltd.	"
+  company = "Jiangxi Zonst Group Co., Ltd."
   company_url = "https://www.zonst.com/"
   location = "Nanchang, Jiangxi, China"
   date_start = "2020-05-01"
@@ -79,9 +88,9 @@ date_format = "Jan 2006"
   description = """
 <img data-src="/media/zonst.jpg" alt="zonst" style="padding-bottom: 30px;" class="lazyload">
 
--	As an important part of the company's main business of chess and card games - robot AI, its performance affects the player's experience and the company's revenue. I am mainly responsible for the development and optimization of robot AI algorithms in overseas mahjong projects.
--	Use Golang to combine data structure and algorithm knowledge to develop the robot's card-drawing and card-playing algorithm, and to develop the robot's difficulty level grading mechanism.
--	Through sync.Map and memorized search, the robot's card recommendation algorithm is optimized, which increases the efficiency by nearly 5 times, greatly improves the user experience and saves server overhead.
+- Developed and optimized AI bot algorithms for an overseas Mahjong game, directly impacting player experience and revenue.
+- Implemented tile-draw/discard algorithms with difficulty-level mechanisms in Golang.
+- Optimized the recommended-discard algorithm using sync.Map memoized search, achieving ~5x performance improvement and significantly reducing server load.
 
 """
 

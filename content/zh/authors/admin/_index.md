@@ -1,6 +1,6 @@
 ---
 title: 熊文涛
-role: 全栈工程师
+role: AI 全栈工程师
 avatar_filename: avatar.jpg
 organizations:
   - name: 独立开发者
@@ -44,10 +44,10 @@ highlight_name: false
 email: "kevintao@ifree.love"
 ---
 
-熊文涛是位专业开发者，目前专注于人工智能和游戏领域。他对后端、前端、数据库和网络编程有深入的了解。凭借这些技能，他参与了众多网站、游戏应用和基础设施的开发工作。他在个人[博客](https://ifree.love)上记录自己在技术和生活方面的学习心得。他喜欢在[GitHub](https://github.com/Kevin-free)上开源自己的个人项目。他热衷于学习编程并将其付诸实践。
+熊文涛是一名拥有 10 年开发经验的专业软件工程师，擅长游戏和 AI 软件开发。他深度使用 OpenAI、Claude、DeepSeek 等大模型，构建过多个生产级 AI 项目。他在个人[博客](https://kevintao1024.com)上记录自己在技术和生活的学习心得。他喜欢编程并在[GitHub](https://github.com/Kevin-free)上开源个人项目。他秉承“学与成长”的理念，不断学习和探索新的技术领域。
 
-熊文涛还是一位体育爱好者，擅长乒乓球，曾担任校乒乓球协会副会长，并带领团队参加全国大学生比赛。他至今仍坚持每周至少锻炼 4 天，不仅锻炼出健康的身体，还锻炼出坚强的内心。
+熊文涛还是一位体育爱好者，擅长乒乓球，曾担任校乒乓球协会副会长，并带领团队参加全国大学生比赛。他至今仍坚持每周至少锻炼 4 天，不仅有健康的身体，还有坚强的内心。
 
-现在，他是一名全栈工程师的独立开发者。
+现在，他是独立开发者，线上运营 [AI Build](https://aibuild.dev)、[NanoBananaPro](https://nanobananapro.photo)、[useClawdbot](https://beta.useclawdbot.app) 等多个盈利产品，深度参与[RealChar](https://github.com/Shaunwei/RealChar)（6.2K ★）、[AI-Town](https://github.com/a16z-infra/ai-town)（9.6K ★）等知名开源项目。
 
-点击[这里](https://buy.stripe.com/6oE9BFdyIcUP74IbIL)获取他的 PDF 简历和电话等个人信息。一次付款，永久更新！
+想和他合作？点击[这里](https://buy.stripe.com/6oE9BFdyIcUP74IbIL)获取他更详细更私密的 PDF 简历。一次付款，永久更新！
