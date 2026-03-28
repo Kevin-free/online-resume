@@ -41,4 +41,4 @@ Wentao Xiong is also a sports enthusiast, good at table tennis, has served as th
 
 Now a one-person company pioneer going global, he has launched and operates multiple profitable products including [AI Build](https://aibuild.dev), [NanoBananaPro](https://nanobananapro.photo), and [useClawdbot](https://beta.useclawdbot.app). Built a complete business loop from scratch, hitting the milestone of $10K in a single day.
 
-Want to cooperate with him? Click [Here](https://buy.stripe.com/6oE9BFdyIcUP74IbIL) to get his detailed PDF resume. Pay once, update forever!
+Want to cooperate with him? Click [Here](https://buy.stripe.com/3cIbJ00Gn7hX1Dva9F8ww00) to get his detailed PDF resume. Pay once, update forever!

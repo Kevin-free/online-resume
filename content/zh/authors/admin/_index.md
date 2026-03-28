@@ -41,4 +41,4 @@ email: "kevintao@ifree.love"
 
 现在，他是一人公司全球化先行者，上线运营 [AI Build](https://aibuild.dev)、[NanoBananaPro](https://nanobananapro.photo)、[useClawdbot](https://beta.useclawdbot.app) 等多个盈利产品，从零到一商业闭环，实现成就日入万刀。
 
-想和他合作？点击[这里](https://buy.stripe.com/6oE9BFdyIcUP74IbIL)获取他更详细更私密的 PDF 简历。一次付款，永久更新！
+想和他合作？点击[这里](https://buy.stripe.com/3cIdR8dt9eKpci91D98ww01)获取他更详细更私密的 PDF 简历。一次付款，永久更新！
