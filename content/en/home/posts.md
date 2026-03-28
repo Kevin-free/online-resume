@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Posts"
 subtitle = "<a class='btn btn-outline-primary' href='https://ifree.love/'><i class='far fa-newspaper fa-fw'></i>&nbsp; See All Posts</a>"

@@ -9,9 +9,6 @@ superuser: true
 authors:
   - admin
 bio: My research interests include game and artificial intelligence.
-interests:
-  - Artificial Intelligence
-  - Game Development
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,12 +28,6 @@ social:
   - icon: weixin
     icon_pack: fab
     link: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
-education:
-  courses:
-    - course: B.Eng in Computer Science, GPA 3.9/4.0
-      institution: JiuJiang University, JiangXi, China
-      year:
-      schoolbadge: "/JJU.svg"
 user_groups:
   - Researchers
   - Visitors

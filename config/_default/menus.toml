@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
+  name = "Skills"
+  url = "#skills"
   weight = 20
 
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "Projects"
+  url = "#projects"
   weight = 30
 
 [[main]]
@@ -24,24 +24,14 @@
   weight = 40
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 50
-
-[[main]]
   name = "Talks"
   url = "#talks"
-  weight = 70
-
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 90
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 100
+  weight = 60
 
 #[[main_right]]
 #  name = "<i class='ai ai-coursera' style='font-size:1.5rem;line-height:1.25'></i>"

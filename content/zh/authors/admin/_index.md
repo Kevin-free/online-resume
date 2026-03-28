@@ -9,9 +9,6 @@ superuser: true
 authors:
   - admin
 bio: 我的研究方向主要包括游戏开发和人工智能
-interests:
-  - 人工智能
-  - 游戏开发
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,12 +28,6 @@ social:
   - icon: weixin
     icon_pack: fab
     link: https://img.ifree258.top/ifree.love/theme/ifree/wesub-qrcode.png
-education:
-  courses:
-    - course: 计算机科学学士学位, GPA 3.9/4.0
-      institution: 九江学院, 江西, 中国
-      year:
-      schoolbadge: "/JJU.svg"
 user_groups:
   - Researchers
   - Visitors
