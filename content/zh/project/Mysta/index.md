@@ -1,11 +1,11 @@
 ---
 title: Mysta
-summary: 个人项目 | AI Agent 项目，自动化操作浏览器，自动运营推特、小红书等平台。
+summary: 团队项目 | AI Agent 项目，自动化操作浏览器，自动运营推特、小红书等平台。
 
 tags:
-  - 人工智能
-  - 全栈
-  - 个人
+  - AI
+  - Full-Stack
+  - Team
 date: "2025-01-01T00:00:00Z"
 
 # 可选的外部 URL (替代项目详情页)。
@@ -17,7 +17,7 @@ image:
 
 links:
 - name: 网址
-  url: https://mysta.so
+  url: https://mysta.ai
 
 slides: ""
 ---

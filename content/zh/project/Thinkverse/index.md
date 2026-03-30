@@ -1,11 +1,11 @@
 ---
 title: Thinkverse
-summary: 个人项目 | AI 数学教育平台，为老师和学生提供智能化教学与学习服务。
+summary: 团队项目 | AI 数学教育平台，为老师和学生提供智能化教学与学习服务。
 
 tags:
-  - 人工智能
-  - 全栈
-  - 个人
+  - AI
+  - Full-Stack
+  - Team
 date: "2025-01-01T00:00:00Z"
 
 # 可选的外部 URL (替代项目详情页)。
@@ -17,7 +17,7 @@ image:
 
 links:
 - name: 网址
-  url: https://thinkverse.so
+  url: http://thinkverse.co
 
 slides: ""
 ---

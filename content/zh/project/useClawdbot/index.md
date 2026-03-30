@@ -17,11 +17,7 @@ image:
 
 links:
 - name: 网址
-  url: https://useclawdbot.com
-- icon_pack: fab
-  icon: github
-  name: GitHub
-  url: https://github.com/Kevin-free/useclawdbot
+  url: https://useclawdbot.app
 
 slides: ""
 ---
