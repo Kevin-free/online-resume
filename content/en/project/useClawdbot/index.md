@@ -6,7 +6,7 @@ tags:
   - AI
   - Full-Stack
   - Personal
-date: "2025-01-01T00:00:00Z"
+date: "2026-01-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,11 +17,7 @@ image:
 
 links:
 - name: Website
-  url: https://useclawdbot.com
-- icon_pack: fab
-  icon: github
-  name: GitHub
-  url: https://github.com/Kevin-free/useclawdbot
+  url: https://useclawdbot.app
 
 slides: ""
 ---

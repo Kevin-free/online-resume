@@ -1,12 +1,12 @@
 ---
-title: AI Build
-summary: Personal Project | All-in-one AI learning & build platform.
+title: NanoBananaPro
+summary: Personal Project | Image generation tool with a better UI/UX.
 
 tags:
   - AI
   - Full-Stack
   - Personal
-date: "2025-06-30T00:00:00Z"
+date: "2025-11-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,11 +17,11 @@ image:
 
 links:
 - name: Website
-  url: https://aibuild.so
+  url: https://nanobananapro.photo
 
 slides: ""
 ---
 
-All-in-one AI learning & build platform: systematic methodology + battle-tested templates + versatile agents = profitable products fast.
+Image generation tool with a better UI/UX.
 
 Technology Stack: Next.js, BetterAuth, Stripe, Tailwind CSS, Vercel AI SDK, ChatGPT API, Resend, Fumadocs

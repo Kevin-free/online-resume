@@ -1,12 +1,12 @@
 ---
 title: Thinkverse
-summary: Personal Project | AI math education platform for teachers and students.
+summary: Team Project | AI math education platform for teachers and students.
 
 tags:
   - AI
   - Full-Stack
-  - Personal
-date: "2025-01-01T00:00:00Z"
+  - Team
+date: "2024-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ image:
 
 links:
 - name: Website
-  url: https://thinkverse.so
+  url: http://thinkverse.co
 
 slides: ""
 ---
