@@ -3,10 +3,10 @@ title: 寻找最佳音缘
 summary: 个人项目 | 个人设计并开发的音乐社交微信小程序，旨在通过音乐寻找有缘人。
 
 tags:
-  - 游戏
-  - 全栈
-  - 个人
-  - 开源
+  - Game
+  - Full-Stack
+  - Personal
+  - OpenSource
 date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

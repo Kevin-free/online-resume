@@ -3,9 +3,9 @@ title: useClawdbot
 summary: 个人项目 | OpenClaw (Clawdbot) 交易平台，可以发布任务或接受任务。
 
 tags:
-  - 人工智能
-  - 全栈
-  - 个人
+  - AI
+  - Full-Stack
+  - Personal
 date: "2026-01-28T00:00:00Z"
 
 # 可选的外部 URL (替代项目详情页)。

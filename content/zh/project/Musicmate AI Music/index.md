@@ -3,9 +3,9 @@ title: 音缘AI音乐
 summary: 个人项目 | AI 音乐微信小程序。
 
 tags:
-  - 人工智能
-  - 全栈
-  - 个人
+  - AI
+  - Full-Stack
+  - Personal
 date: "2024-04-01T00:00:00Z"
 
 # 可选的外部 URL (替代项目详情页)。

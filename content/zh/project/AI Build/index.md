@@ -3,9 +3,9 @@ title: AI Build
 summary: 个人项目 | 一站式 AI 学习和构建平台。
 
 tags:
-  - 人工智能
-  - 全栈
-  - 个人
+  - AI
+  - Full-Stack
+  - Personal
 date: "2025-06-30T00:00:00Z"
 
 # 可选的外部 URL (替代项目详情页)。
