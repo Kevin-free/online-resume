@@ -17,7 +17,7 @@ image:
 
 links:
 - name: Website
-  url: https://aibuild.so
+  url: https://aibuild.dev
 
 slides: ""
 ---
