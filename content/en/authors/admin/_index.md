@@ -1,5 +1,5 @@
 ---
-title: Wentao Xiong
+title: Kevin
 role: AI Full Stack Engineer
 avatar_filename: avatar.jpg
 organizations:
@@ -35,9 +35,9 @@ highlight_name: false
 email: "kevintao@ifree.love"
 ---
 
-Wentao Xiong is a professional software engineer with 10 years of development experience, specializing in game and AI software development. He works extensively with LLMs (OpenAI, Claude, DeepSeek) and has built multiple production-grade AI projects. He records his learning about technology and life on his personal [Blog](https://kevintao1024.com). He enjoys programming and open-sources his personal projects on [GitHub](https://github.com/Kevin-free). He embraces the philosophy of "learn and grow," continuously exploring new technical frontiers. An early OpenClaw power user, automating IP content creation and AI-powered development.
+Kevin is a professional software engineer with 10 years of development experience, specializing in game and AI software development. He works extensively with LLMs (OpenAI, Claude, DeepSeek) and has built multiple production-grade AI projects. He records his learning about technology and life on his personal [Blog](https://kevintao1024.com). He enjoys programming and open-sources his personal projects on [GitHub](https://github.com/Kevin-free). He embraces the philosophy of "learn and grow," continuously exploring new technical frontiers. An early OpenClaw power user, automating IP content creation and AI-powered development.
 
-Wentao Xiong is also a sports enthusiast, good at table tennis, has served as the vice president of the school table tennis association, and led the team to participate in the national college competition. He still insists on exercising at least 4 days a week. He not only has a healthy body, but also has a strong heart.
+Kevin is also a sports enthusiast, good at table tennis, has served as the vice president of the school table tennis association, and led the team to participate in the national college competition. He still insists on exercising at least 4 days a week. He not only has a healthy body, but also has a strong heart.
 
 Now a one-person company pioneer going global, he has launched and operates multiple profitable products including [AI Build](https://aibuild.dev), [NanoBananaPro](https://nanobananapro.photo), and [useClawdbot](https://beta.useclawdbot.app). Built a complete business loop from scratch, hitting the milestone of $10K in a single day.
 

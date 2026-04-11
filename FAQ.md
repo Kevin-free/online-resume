@@ -16,7 +16,7 @@ hugo server -D
 
 Subject:
 
-Xiong Wentao's resume 熊文涛的简历
+Xiong Wentao's resume 文涛的简历
 
 Body:
 
